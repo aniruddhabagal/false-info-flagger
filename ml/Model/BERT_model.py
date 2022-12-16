@@ -6,6 +6,9 @@ import tensorflow as tf
 model = from_pretrained_keras("keras-io/bert-semantic-similarity")
 labels = ["contradiction", "entailment", "neutral"]
 
+
+
+
 class BertSemanticDataGenerator(tf.keras.utils.Sequence):
  
     def __init__(
@@ -73,3 +76,5 @@ def predict(sentence1, sentence2):
     
     labels_probs = {labels[i]: float(probs[i]) for i, _ in enumerate(labels)}
     return labels_probs
+
+

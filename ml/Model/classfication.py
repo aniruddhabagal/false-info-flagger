@@ -34,6 +34,7 @@ def find_similarity(text):
     if max(entailment)<=0:
         return False
     else:
+        return True
 
     
 
