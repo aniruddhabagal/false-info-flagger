@@ -41,3 +41,13 @@ p{
 }
 
 
+a{
+  text-decoration: none;
+  color: #082757;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+  color: rgba(245, 5, 85, 0.959);
+  text-decoration: underline;
+}
