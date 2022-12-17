@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhagwan/web/frontend/static/css/main.0bbe6fba.css",
+    "main.js": "/bhagwan/web/frontend/static/js/main.f061c744.js",
+    "static/media/hero2.png": "/bhagwan/web/frontend/static/media/hero2.5a32377f9734225ece08.png",
+    "static/media/logo.png": "/bhagwan/web/frontend/static/media/logo.42cc8e1f2211bc27b2eb.png",
+    "index.html": "/bhagwan/web/frontend/index.html",
+    "main.0bbe6fba.css.map": "/bhagwan/web/frontend/static/css/main.0bbe6fba.css.map",
+    "main.f061c744.js.map": "/bhagwan/web/frontend/static/js/main.f061c744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbe6fba.css",
+    "static/js/main.f061c744.js"
+  ]
+}
