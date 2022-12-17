@@ -18,7 +18,7 @@ function App() {
       <p>We help you capture the FLAG! </p>
       <br />
       <h3>
-        <a href="#"> -> Visit Our Website!</a>
+        <a href="aniruddhabagal.github.io/bhagwan/"> -> Visit Our Website!</a>
       </h3>
     </div>
   );
